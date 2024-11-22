@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "2V3Id+6AwxSJ8O+y7BjZ3hL7k2V07SNQK/jFZZwlWeg=",
+  "Source": "AllupProject",
+  "BasePath": "_content/AllupProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AllupProject\\wwwroot",
+      "Source": "AllupProject",
+      "ContentRoot": "D:\\CodeAcademy\\AllupProject\\AllupProject\\wwwroot\\",
+      "BasePath": "_content/AllupProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CodeAcademy\\AllupProject\\AllupProject\\wwwroot\\assets\\images\\allupimg1.png",
+      "SourceId": "AllupProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeAcademy\\AllupProject\\AllupProject\\wwwroot\\",
+      "BasePath": "_content/AllupProject",
+      "RelativePath": "assets/images/allupimg1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\allupimg1.png"
+    },
+    {
+      "Identity": "D:\\CodeAcademy\\AllupProject\\AllupProject\\wwwroot\\assets\\images\\allupimg2.png",
+      "SourceId": "AllupProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeAcademy\\AllupProject\\AllupProject\\wwwroot\\",
+      "BasePath": "_content/AllupProject",
+      "RelativePath": "assets/images/allupimg2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\allupimg2.png"
+    }
+  ]
+}

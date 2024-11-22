@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CodeAcademy\\AllupProject\\AllupProject\\wwwroot\\assets\\images\\allupimg1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\allupimg1.png"
+    },
+    {
+      "Id": "D:\\CodeAcademy\\AllupProject\\AllupProject\\wwwroot\\assets\\images\\allupimg2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\allupimg2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AllupProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AllupProject.props",
+      "PackagePath": "build\\AllupProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AllupProject.props",
+      "PackagePath": "buildMultiTargeting\\AllupProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AllupProject.props",
+      "PackagePath": "buildTransitive\\AllupProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeAcademy\\AllupProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\migrations\\20241121154751_createdbandcreateslidestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\migrations\\20241121154751_createdbandcreateslidestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|d:\\codeacademy\\allupproject\\allupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB060653-A66F-4BA7-AA6B-5B0163D49335}|AllupProject\\AllupProject.csproj|solutionrelative:allupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "AllupProject\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAAYBAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:21:15.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImages.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\ProductImages.cs",
+              "RelativeDocumentMoniker": "AllupProject\\Models\\ProductImages.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\ProductImages.cs",
+              "RelativeToolTip": "AllupProject\\Models\\ProductImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:12:53.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AllupProject\\Models\\Category.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\Category.cs",
+              "RelativeToolTip": "AllupProject\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:12:25.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AllupProject\\Models\\Product.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\Product.cs",
+              "RelativeToolTip": "AllupProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:11:54.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241121154751_CreateDBandCreateSlidesTable.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Migrations\\20241121154751_CreateDBandCreateSlidesTable.cs",
+              "RelativeDocumentMoniker": "AllupProject\\Migrations\\20241121154751_CreateDBandCreateSlidesTable.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Migrations\\20241121154751_CreateDBandCreateSlidesTable.cs",
+              "RelativeToolTip": "AllupProject\\Migrations\\20241121154751_CreateDBandCreateSlidesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:47:53.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AllupProject\\appsettings.Development.json",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\appsettings.Development.json",
+              "RelativeToolTip": "AllupProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T15:31:25.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\appsettings.json",
+              "RelativeDocumentMoniker": "AllupProject\\appsettings.json",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\appsettings.json",
+              "RelativeToolTip": "AllupProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T14:39:58.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AllupProject\\DAL\\AppDbContext.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "AllupProject\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAADA//////8PwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:21:09.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "AllupProject\\ViewModels\\HomeVM.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "AllupProject\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:18:42.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AllupProject\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "AllupProject\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:12:46.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "AllupProject\\Models\\Slide.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Models\\Slide.cs",
+              "RelativeToolTip": "AllupProject\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:12:21.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AllupProject\\_ViewStart.cshtml",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\_ViewStart.cshtml",
+              "RelativeToolTip": "AllupProject\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T13:56:52.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AllupProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AllupProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T13:56:31.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "AllupProject\\Controller\\HomeController.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Controller\\HomeController.cs",
+              "RelativeToolTip": "AllupProject\\Controller\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:54:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Program.cs",
+              "RelativeDocumentMoniker": "AllupProject\\Program.cs",
+              "ToolTip": "D:\\CodeAcademy\\AllupProject\\AllupProject\\Program.cs",
+              "RelativeToolTip": "AllupProject\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:41:05.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
